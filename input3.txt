@@ -1,0 +1,5 @@
+!initialize variables!
+x = 5;
+y = 3;
+while (fair < upper) a = 23.00 whileend;
+x + y = total;

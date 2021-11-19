@@ -1,0 +1,25 @@
+    TOKENS   |   LEXEMES
+    --------------------- 
+   COMMENT    =   !This is a for loop testing!
+   KEYWORD    =   for
+ SEPERATOR    =   (
+   KEYWORD    =   int
+IDENTIFIER    =   i
+  OPERATOR    =   =
+      REAL    =   0
+ SEPERATOR    =   ;
+IDENTIFIER    =   i
+  OPERATOR    =   <
+IDENTIFIER    =   n
+ SEPERATOR    =   ;
+  OPERATOR    =   i
+  OPERATOR    =   ++
+ SEPERATOR    =   )
+ SEPERATOR    =   {
+IDENTIFIER    =   total
+  OPERATOR    =   =
+IDENTIFIER    =   singleCharacter
+ SEPERATOR    =   [
+IDENTIFIER    =   i
+ SEPERATOR    =   ]
+ SEPERATOR    =   }

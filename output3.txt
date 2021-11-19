@@ -1,0 +1,28 @@
+    TOKENS   |   LEXEMES
+    --------------------- 
+   COMMENT    =   !initialize variables!
+IDENTIFIER    =   x
+  OPERATOR    =   =
+      REAL    =   5
+ SEPERATOR    =   ;
+IDENTIFIER    =   y
+  OPERATOR    =   =
+      REAL    =   3
+ SEPERATOR    =   ;
+   KEYWORD    =   while
+ SEPERATOR    =   (
+IDENTIFIER    =   fair
+  OPERATOR    =   <
+IDENTIFIER    =   upper
+ SEPERATOR    =   )
+IDENTIFIER    =   a
+  OPERATOR    =   =
+   INTEGER    =   23.00
+   KEYWORD    =   whileend
+ SEPERATOR    =   ;
+IDENTIFIER    =   x
+  OPERATOR    =   +
+IDENTIFIER    =   y
+  OPERATOR    =   =
+IDENTIFIER    =   total
+ SEPERATOR    =   ;
